@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Table of Contents](table-of-contents.md)
+
+## Some Common Vocabulary
+
+* [Voltage](some-common-vocabulary/voltage.md)
 
