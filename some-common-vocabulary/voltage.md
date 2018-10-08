@@ -2,7 +2,7 @@
 
 So if you're new to electricity in general, you've probably seen a sign like this:
 
-\[drawing of a high voltage sign\]
+![Typical sign for Dangerously High Voltage](../.gitbook/assets/highvoltage%20%281%29.png)
 
 Or you've heard that song by Electric Six. So you might be a little wary of messing with electronics because they're dangerous.
 
@@ -22,9 +22,9 @@ The main thing to keep in mind about voltage when working with microcontrollers 
 
 ### **What happens when I supply too much/little voltage?**
 
-Too little voltage can cause erratic behavior or a lack of booting at all for most microcontrollers and peripherals. Too much voltage will heat up and eventually fry your device, emitting a nasty-smelling smoke and being rendered unusual \(some call this an attack of the 'blue smoke monster'\)
+Too little voltage can cause erratic behavior or a lack of booting at all for most microcontrollers and peripherals. Too much voltage will heat up and eventually fry your device, emitting a nasty-smelling smoke and being rendered unusable \(some call this an attack of the 'blue smoke monster'\)
 
-{Insert drawing of LED burning out with blue smoke monster}
+![The blue smoke monster being coaxed out of an LED by applying &amp;gt;3.3V to it](../.gitbook/assets/screen-shot-2018-10-08-at-1.09.31-pm.png)
 
 ### Will I ever go above 5 volts?
 
