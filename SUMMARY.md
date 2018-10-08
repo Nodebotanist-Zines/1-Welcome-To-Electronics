@@ -10,4 +10,6 @@
 * ["Ground"](some-common-vocabulary/ground.md)
 * [Open and Short Circuits](some-common-vocabulary/open-and-short-circuits.md)
 * [GPIO](some-common-vocabulary/gpio.md)
+* [Microcontrollers](some-common-vocabulary/microcontrollers.md)
+* [End Matter](some-common-vocabulary/end-matter.md)
 
